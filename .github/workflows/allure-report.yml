@@ -1,4 +1,4 @@
-name: allure-cypress-report
+name: playwright-allure-report
 
 on: [ push ]
 

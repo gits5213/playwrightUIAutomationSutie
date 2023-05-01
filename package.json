@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test:codegen": "npx playwright codegen",
+    "pretest":"npx playwright install",
     "test": "npx playwright test",
     "test:ui": "npx playwright test --ui",
     "test:chrome": "npx playwright test --project=chromium",
@@ -13,7 +14,7 @@
     "post----test": "npx playwright show-report",
     "dot:report": "npx playwright test --reporter=dot",
     "line:report": "npx playwright test --reporter=line",
-    "posttest": "allure generate allure-results --clean -o allure-report && allure open allure-report"
+    "post---test": "allure generate allure-results --clean -o allure-report && allure open allure-report"
   },
   "keywords": [],
   "author": "",

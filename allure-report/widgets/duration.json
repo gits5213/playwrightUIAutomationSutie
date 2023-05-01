@@ -1,0 +1,461 @@
+[ {
+  "uid" : "3eac553ad10535bf",
+  "name" : "Validate expected link text Horizontal Slider on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966752659,
+    "stop" : 1682966753171,
+    "duration" : 512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a666f1d8b9e8441",
+  "name" : "Validate expected link text Frames on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966751694,
+    "stop" : 1682966752172,
+    "duration" : 478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a0e595b86266511",
+  "name" : "Validate expected link text Dynamic Controls on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966742210,
+    "stop" : 1682966742794,
+    "duration" : 584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c71e4edc67f2bfeb",
+  "name" : "Validate expected link text Typos on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966762228,
+    "stop" : 1682966762762,
+    "duration" : 534
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4540a1332e293ae",
+  "name" : "Validate expected link text Shadow DOM on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966759659,
+    "stop" : 1682966760251,
+    "duration" : 592
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ae79b3f99b74c18",
+  "name" : "Validate expected link text Exit Intent on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966743737,
+    "stop" : 1682966744200,
+    "duration" : 463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a23f3c86251cac8",
+  "name" : "Validate expected link text Secure File Download on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966759142,
+    "stop" : 1682966759658,
+    "duration" : 516
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85e6f046f200c806",
+  "name" : "Validate expected link text Dynamic Content on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966741733,
+    "stop" : 1682966742209,
+    "duration" : 476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b958b1b8c99bb7c",
+  "name" : "Validate expected link text Basic Auth on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966719793,
+    "stop" : 1682966725312,
+    "duration" : 5519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c505304ba0449549",
+  "name" : "Validate, links count on the landding page ",
+  "time" : {
+    "start" : 1682966764063,
+    "stop" : 1682966764635,
+    "duration" : 572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb37ecbba51aeb15",
+  "name" : "Validate expected link text Disappearing Elements on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966739470,
+    "stop" : 1682966740714,
+    "duration" : 1244
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f9f8aca4661ce4c",
+  "name" : "Validate expected link text Context Menu on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966732142,
+    "stop" : 1682966732661,
+    "duration" : 519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40bb362f4513ff64",
+  "name" : "Validate expected link text Redirect Link on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966758676,
+    "stop" : 1682966759141,
+    "duration" : 465
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ce3eb9af87c8c9",
+  "name" : "Validate expected link text Notification Messages on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966758194,
+    "stop" : 1682966758675,
+    "duration" : 481
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "124f1cd642c2f7ad",
+  "name" : "Validate expected link text Form Authentication on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966751128,
+    "stop" : 1682966751694,
+    "duration" : 566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cee3a2fe8b84e764",
+  "name" : "Validate expected link text Add/Remove Elements on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966719284,
+    "stop" : 1682966719790,
+    "duration" : 506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc8d4628a9cac31d",
+  "name" : "Validate expected link text File Upload on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966744692,
+    "stop" : 1682966750187,
+    "duration" : 5495
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d763fcd99afb51d",
+  "name" : "Validate expected link text Dynamic Loading on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966742795,
+    "stop" : 1682966743253,
+    "duration" : 458
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7994c1661fc0fa0",
+  "name" : "Validate expected link text Dropdown on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966741184,
+    "stop" : 1682966741732,
+    "duration" : 548
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ec794e411fd7f5d",
+  "name" : "Validate expected link text Nested Frames on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966757678,
+    "stop" : 1682966758193,
+    "duration" : 515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d769dff428cebd6",
+  "name" : "Validate expected link text Challenging DOM on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966725776,
+    "stop" : 1682966731464,
+    "duration" : 5688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c6986f2546c69a3",
+  "name" : "Validate expected link text Infinite Scroll on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966753639,
+    "stop" : 1682966754156,
+    "duration" : 517
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2122f0b8ba9b23d2",
+  "name" : "Validate expected link text Forgot Password on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966750667,
+    "stop" : 1682966751127,
+    "duration" : 460
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f0d93648f2c9513",
+  "name" : "Validate expected link text WYSIWYG Editor on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966762763,
+    "stop" : 1682966763241,
+    "duration" : 478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b04f01b6167c24a",
+  "name" : "Validate expected link text JavaScript Alerts on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966755091,
+    "stop" : 1682966755547,
+    "duration" : 456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a69f7557934e67ff",
+  "name" : "Validate expected link text Slow Resources on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966760730,
+    "stop" : 1682966761202,
+    "duration" : 472
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab60c03028332acc",
+  "name" : "Validate expected link text Entry Ad on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966743254,
+    "stop" : 1682966743736,
+    "duration" : 482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ea99f7037b2d8c2",
+  "name" : "Validate expected link text Digest Authentication on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966732662,
+    "stop" : 1682966738086,
+    "duration" : 5424
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4da0209de4c0dd34",
+  "name" : "Validate expected link text Shifting Content on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966760253,
+    "stop" : 1682966760729,
+    "duration" : 476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13d894548039f684",
+  "name" : "Validate expected link text Geolocation on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966752173,
+    "stop" : 1682966752658,
+    "duration" : 485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a26d466d2c39cac",
+  "name" : "Validate expected link text Key Presses on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966756059,
+    "stop" : 1682966756534,
+    "duration" : 475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3881379f377cf29d",
+  "name" : "Validate expected link text JQuery UI Menus on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966754626,
+    "stop" : 1682966755090,
+    "duration" : 464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c719dae9d8f21aca",
+  "name" : "Validate expected link text Large & Deep DOM on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966756535,
+    "stop" : 1682966757049,
+    "duration" : 514
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ddba394288a1bc0",
+  "name" : "Validate expected link text Sortable Data Tables on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966761203,
+    "stop" : 1682966761763,
+    "duration" : 560
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bc448531215c875",
+  "name" : "Validate expected link text File Download on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966744201,
+    "stop" : 1682966744692,
+    "duration" : 491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "682449a9794b8adf",
+  "name" : "Validate expected link text Broken Images on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966725314,
+    "stop" : 1682966725776,
+    "duration" : 462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "245cc9bf1a8b2b8",
+  "name" : "Validate expected link text A/B Testing on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966712590,
+    "stop" : 1682966719283,
+    "duration" : 6693
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5deb799ae56d147f",
+  "name" : "Validate expected link text Status Codes on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966761763,
+    "stop" : 1682966762228,
+    "duration" : 465
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7381f2394fe2abe0",
+  "name" : "get link text on the landing page",
+  "time" : {
+    "start" : 1682966763242,
+    "stop" : 1682966764055,
+    "duration" : 813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4603c95c8e02b066",
+  "name" : "Validate expected link text Multiple Windows on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966757050,
+    "stop" : 1682966757677,
+    "duration" : 627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abc97f674abcced7",
+  "name" : "Validate expected link text Checkboxes on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966731468,
+    "stop" : 1682966732141,
+    "duration" : 673
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3aec0cd5c475d7d9",
+  "name" : "Validate expected link text Hovers on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966753172,
+    "stop" : 1682966753637,
+    "duration" : 465
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a90fecfbdb5466cd",
+  "name" : "Validate expected link text JavaScript onload event error on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966755548,
+    "stop" : 1682966756058,
+    "duration" : 510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab7f8d9239c3e2ba",
+  "name" : "Validate expected link text Floating Menu on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966750188,
+    "stop" : 1682966750667,
+    "duration" : 479
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "394781206d89438",
+  "name" : "Validate expected link text Inputs on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966754156,
+    "stop" : 1682966754626,
+    "duration" : 470
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6d5c08d36308893",
+  "name" : "Validate expected link text Drag and Drop on the landing page by md zaman",
+  "time" : {
+    "start" : 1682966740715,
+    "stop" : 1682966741183,
+    "duration" : 468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

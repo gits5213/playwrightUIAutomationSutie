@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "page.goto: net::ERR_EMPTY_RESPONSE at https://the-internet.herokuapp.com/\n=========================== logs ===========================\nnavigating to \"https://the-internet.herokuapp.com/\", waiting until \"load\"\n============================================================",
+      "children" : [ {
+        "name" : "Validate expected link text Digest Authentication on the landing page by md zaman",
+        "uid" : "3ea99f7037b2d8c2",
+        "parentUid" : "4c932e6304a5bcab9e41d218d24931c0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1682966732662,
+          "stop" : 1682966738086,
+          "duration" : 5424
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "4c932e6304a5bcab9e41d218d24931c0"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

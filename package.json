@@ -1,0 +1,25 @@
+{
+  "name": "playwrightautomationsuite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:codegen": "npx playwright codegen",
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:chrome": "npx playwright test --project=chromium",
+    "test:debug": "npx playwright test --debug",
+    "test:headed": "npx playwright test --headed",
+    "post----test": "npx playwright show-report",
+    "dot:report": "npx playwright test --reporter=dot",
+    "line:report": "npx playwright test --reporter=line",
+    "posttest": "allure generate allure-results --clean -o allure-report && allure open allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3",
+    "allure-playwright": "^2.2.0"
+  }
+}

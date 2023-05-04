@@ -22,8 +22,6 @@
  - [GITS - Playwright Javascript UI Automation Series-15 | Git | GitHub | Project Added](https://youtu.be/BiRrN3RkEfs)
  - [GITS - Playwright Javascript UI Automation Series-16 | GitHub Action | Allre Report deploy to GitHub Page](https://youtu.be/G1CTqGpXOSs)
  - [GITS - Playwright Javascript UI Automation Series-17 | Parallelism and Sharding test execution](https://youtu.be/DnfA-IwhHUo)
- - []()
- 
  
 ## Executing end to end test
  npx playwright test
